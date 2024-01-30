@@ -1,3 +1,2 @@
 # Machine Learning Repository
-Using Machine Learning to predict glboal sales of video games and the type of music someone would enjoy.
-
+This repository contains a collection of Python scripts and Jupyter notebooks that demonstrate various machine learning algorithms, techniques, and applications. 
