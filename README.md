@@ -4,3 +4,5 @@ This repository contains a collection of Python scripts and Jupyter notebooks th
 ## Projects
 
 ### Music Recommendation
+
+### Video Game Sales Predictor
