@@ -17,3 +17,4 @@ This repository contains a collection of Python scripts and Jupyter notebooks th
 #### How to Use
   1. Install the required dependencies (pandas, scikit-learn).
   2. Run the script VideoGameMachineLearning.py.
+  3. Check the accuracy of the model printed in the console.
