@@ -9,5 +9,6 @@ This repository contains a collection of Python scripts and Jupyter notebooks th
 #### How to Use
   1. Ensure you have the required dependencies installed (pandas and scikit-learn).
   2. Run the script MusicRecommendationMachineLearning.py.
+  3. Explore the generated decision tree in the music-recommender.dot file.
 
 ### Video Game Sales Predictor
