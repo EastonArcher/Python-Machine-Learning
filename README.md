@@ -3,7 +3,7 @@ This repository contains a collection of Python scripts and Jupyter notebooks th
 
 ## Projects
 
-### Music Recommendation
+### Music Recommendation 🎧
 * This script utilizes a Decision Tree Classifier to build a music recommender system. The model is trained on a dataset (music.csv) containing user information (age and gender) and their preferred music genres. The trained model generates a decision tree visualized in the music-recommender.dot file.
 
 #### How to Use
