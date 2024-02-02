@@ -13,3 +13,6 @@ This repository contains a collection of Python scripts and Jupyter notebooks th
 
 ### Video Game Sales Predictor
 * This script predicts global video game sales using a Decision Tree Classifier. The model is trained on a dataset (vgsales.csv) containing various features related to video games. The script preprocesses the data, handles missing values, encodes categorical variables, and evaluates the model's accuracy.
+
+#### How to Use
+  1. 
