@@ -19,7 +19,7 @@ This repository contains a collection of Python scripts and Jupyter notebooks th
   2. Run the script VideoGameMachineLearning.py.
   3. Check the accuracy of the model printed in the console.
 
-### Sports Predictions
+### Sports Predictions 🏀
 * 
 
 #### How to Use ❔
