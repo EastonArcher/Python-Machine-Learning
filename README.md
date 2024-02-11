@@ -20,7 +20,7 @@ This repository contains a collection of Python scripts and Jupyter notebooks th
   3. Check the accuracy of the model printed in the console.
 
 ### Sports Predictions 🏀
-* 
+* This script predicts
 
 #### How to Use ❔
   1.
