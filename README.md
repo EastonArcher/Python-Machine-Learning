@@ -23,4 +23,4 @@ This repository contains a collection of Python scripts and Jupyter notebooks th
 * This script predicts
 
 #### How to Use ❔
-  1.
+  1. 
