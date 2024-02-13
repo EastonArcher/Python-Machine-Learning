@@ -22,6 +22,6 @@ This repository contains a collection of Python scripts and Jupyter notebooks th
 ### Sports Predictions 🏀
 * This script predicts
 
-#### How to Use ❔
+#### ❔How to Use 
   1. 
 
