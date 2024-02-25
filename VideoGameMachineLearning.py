@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score
 
-# Read the data
+# Reading the data
 game_data = pd.read_csv('vgsales.csv')
 
 # Separate features (X) and target variable (y)
